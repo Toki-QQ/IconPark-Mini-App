@@ -132,7 +132,7 @@ svg64 的开发者
 
 ### lankerened
 
-###### https://github.com/turbosnailcn
+###### https://github.com/lankerened
 
 ```bash
 一个教会了我很多的朋友

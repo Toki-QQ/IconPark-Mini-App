@@ -132,7 +132,7 @@ A team of software development
 
 ### lankerened
 
-###### https://github.com/turbosnailcn
+###### https://github.com/lankerened
 
 ```bash
 My friend who taught a lot

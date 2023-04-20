@@ -20,7 +20,7 @@
     "wechat",
     "miniprogram"
   ],
-  "author": "toki-qq",
+  "author": "Toki",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.21.4",

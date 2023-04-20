@@ -46,7 +46,7 @@
     "wechat",
     "miniprogram"
   ],
-  "author": "toki-qq",
+  "author": "Toki",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Toki-QQ/IconPark-Mini-App/issues"
@@ -71,6 +71,6 @@
     "lib": "lib"
   },
   "publishConfig": {
-    "registry": "https://www.npmjs.com/"
+    "access": "public"
   }
 }

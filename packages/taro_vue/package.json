@@ -1,0 +1,72 @@
+{
+  "private": true,
+  "name": "@iconpark-mini-app/taro-vue",
+  "version": "1.0.0",
+  "description": "An iconpark provider for taro.js with vue.js .",
+  "files": [
+    "lib"
+  ],
+  "main": "./lib/index.js",
+  "module": "./lib/index.js",
+  "types": "./lib/**/*.d.ts",
+  "exports": {
+    "./lib": {
+      "import": "./lib/index.js",
+      "types": "./lib/index.d.ts"
+    },
+    "./lib/all": {
+      "import": "./lib/All.js",
+      "types": "./lib/All.d.ts"
+    },
+    "./lib/icons/*": {
+      "import": "./lib/icons/*.js",
+      "types": "./lib/icons/*.d.ts"
+    },
+    "./lib/runtime": {
+      "import": "./lib/runtime/index.js",
+      "types": "./lib/runtime/index.d.ts"
+    }
+  },
+  "scripts": {
+    "tsc-script": "tsc ./scripts --listEmittedFiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toki-QQ/IconPark-Mini-App.git"
+  },
+  "keywords": [
+    "iconpark",
+    "IconPark",
+    "taro",
+    "taro.js",
+    "wechat",
+    "miniprogram"
+  ],
+  "author": "Toki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toki-QQ/IconPark-Mini-App/issues"
+  },
+  "homepage": "https://github.com/Toki-QQ/IconPark-Mini-App#readme",
+  "dependencies": {
+    "vue": "3.2.45"
+  },
+  "peerDependencies": {
+    "svg64": "^2.0.0",
+    "vue": "^3.2.45"
+  },
+  "peerDependenciesMeta": {
+    "svg64": {
+      "optional": true
+    },
+    "@icon-park/svg": {
+      "optional": true
+    }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "outDir": "./lib",
+    "declaration": true,
+    "declarationDir": "./lib",
+    "strict": true,
+    "emitDeclarationOnly": false,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": "./",
+    "rootDir": ".",
+    "resolveJsonModule": true,
+    "removeComments": true,
+    "typeRoots": [],
+    "lib": ["esnext", "dom"],
+    "allowJs": true,
+    "noImplicitThis": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["scripts/**/*ts"]
+}

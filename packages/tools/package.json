@@ -1,0 +1,39 @@
+{
+  "private": true,
+  "name": "@iconpark-mini-app/tools",
+  "version": "1.0.0",
+  "description": "Some tools for other packages.",
+  "main": "./lib",
+  "type": "module",
+  "scripts": {
+    "tsc-build": "tsc --listEmittedFiles",
+    "tsc-watch": "tsc -watch --listEmittedFiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toki-QQ/IconPark-Mini-App.git"
+  },
+  "keywords": [
+    "iconpark",
+    "IconPark",
+    "taro",
+    "taro.js",
+    "wechat",
+    "miniprogram"
+  ],
+  "author": "Toki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toki-QQ/IconPark-Mini-App/issues"
+  },
+  "homepage": "https://github.com/Toki-QQ/IconPark-Mini-App#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/"
+  }
+}

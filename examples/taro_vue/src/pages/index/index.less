@@ -1,0 +1,71 @@
+page {
+  width: 100vw;
+}
+
+.index {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 24px;
+
+  .welcome {
+    color: #808080;
+    font-size: 16px;
+  }
+
+  .app-name {
+    font-size: 36px;
+    font-weight: bolder;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    color: transparent;
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    background-clip: text;
+    text-align: center;
+  }
+
+  .subhead {
+    font-size: 12px;
+    color: #c8c8c8;
+  }
+
+  .usage {
+    align-self: stretch;
+    margin-top: 48px;
+    margin-left: 16px;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    .title {
+      text-align: left;
+    }
+
+    .code {
+      padding: 16px;
+      margin-top: 16px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+      background-color: #f8f8f8;
+      border-radius: 16px;
+      font-size: 10px;
+
+      text {
+        width: 100%;
+        color: #808080;
+      }
+    }
+
+    .icon {
+      margin-top: 16px;
+      display: flex;
+      gap: 32px;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}

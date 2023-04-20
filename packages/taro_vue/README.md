@@ -7,6 +7,7 @@
 <p>
 
 <br/>
+<br/>
 
 #### English &nbsp; | &nbsp; <a href="./README_zh-CN.md">简体中文<a>
 
@@ -14,6 +15,7 @@
 
 #### Issues: https://github.com/Toki-QQ/IconPark-Mini-App/issues
 
+<br/>
 <br/>
 
 # Base on
@@ -36,6 +38,7 @@ npm: https://www.npmjs.com/package/svg64
 
 ---
 
+<br/>
 <br/>
 
 # Usage
@@ -76,6 +79,7 @@ pnpm add @iconpark-mini-app/taro-vue
 </template>
 ```
 
+<br/>
 <br/>
 
 # Thanks
@@ -134,6 +138,7 @@ A team of software development
 My friend who taught a lot
 ```
 
+<br/>
 <br/>
 
 # Finally

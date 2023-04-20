@@ -3,9 +3,10 @@
 <p align="center">
 <img src="./iconpark-mini-app.png" >
 <p></p>
-<b>一个基于 IconPark 的 Taro.js 图标支持库。当您在开发基于 Taro 的跨平台小程序，同时您还想使用 IconPark 图标库的时候，本项目或许能给你提供帮助。它可以让你在开发小程序的时候，像在使用官方的 IconPark 图标库一样。</b>
+<b>一个基于 IconPark 的小程序图标支持库。当您在开发基于 Taro 的跨平台小程序，同时您还想使用 IconPark 图标库的时候，本项目或许能给你提供帮助。它可以让你在开发小程序的时候，像在使用官方的 IconPark 图标库一样。</b>
 <p>
 
+<br/>
 <br/>
 
 #### <a href="./README_zh-CN.md">English<a> &nbsp; | &nbsp; 简体中文
@@ -14,6 +15,7 @@
 
 #### Issues: https://github.com/Toki-QQ/IconPark-Mini-App/issues
 
+<br/>
 <br/>
 
 # 本项目基于
@@ -36,6 +38,7 @@ npm: https://www.npmjs.com/package/svg64
 
 ---
 
+<br/>
 <br/>
 
 # Taro-Vue 的使用方法
@@ -77,6 +80,7 @@ pnpm add @iconpark-mini-app/taro-vue
 ```
 
 <br/>
+<br/>
 
 # Taro-React 的使用方法
 
@@ -87,6 +91,7 @@ pnpm add @iconpark-mini-app/taro-vue
 ```
 
 <br/>
+<br/>
 
 # 原生小程序 的使用方法
 
@@ -96,6 +101,7 @@ pnpm add @iconpark-mini-app/taro-vue
 将在不就的将来与您相见
 ```
 
+<br/>
 <br/>
 
 # 感谢
@@ -154,6 +160,7 @@ svg64 的开发者
 一个教会了我很多的朋友
 ```
 
+<br/>
 <br/>
 
 # 最后

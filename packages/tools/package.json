@@ -22,7 +22,7 @@
     "miniprogram"
   ],
   "author": "Toki",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Toki-QQ/IconPark-Mini-App/issues"
   },
@@ -31,7 +31,10 @@
     "lib": "lib"
   },
   "files": [
-    "lib"
+    "lib",
+    "README_zh-CN.md",
+    "README.md",
+    "LICENSE"
   ],
   "publishConfig": {
     "registry": "https://www.npmjs.com/"

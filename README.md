@@ -3,9 +3,10 @@
 <p align="center">
 <img src="./iconpark-mini-app.png" >
 <p></p>
-<b>An iconpark provider for taro.js. When you are developing mini programs, and you want to use the IconPark library, this project may be helpful. It allows you to use just like the official IconPark library when developing mini programs.</b>
+<b>An iconpark provider for mini program. When you are developing mini programs, and you want to use the IconPark library, this project may be helpful. It allows you to use just like the official IconPark library when developing mini programs.</b>
 <p>
 
+<br/>
 <br/>
 
 #### English &nbsp; | &nbsp; <a href="./README_zh-CN.md">简体中文<a>
@@ -14,6 +15,7 @@
 
 #### Issues: https://github.com/Toki-QQ/IconPark-Mini-App/issues
 
+<br/>
 <br/>
 
 # Base on
@@ -36,6 +38,7 @@ npm: https://www.npmjs.com/package/svg64
 
 ---
 
+<br/>
 <br/>
 
 # Usage of Taro-Vue
@@ -77,6 +80,7 @@ pnpm add @iconpark-mini-app/taro-vue
 ```
 
 <br/>
+<br/>
 
 # Usage of Taro-React
 
@@ -87,6 +91,7 @@ It is coming soon.
 ```
 
 <br/>
+<br/>
 
 # Usage of Native-Miniprogram
 
@@ -96,6 +101,7 @@ It is coming soon.
 It is coming soon.
 ```
 
+<br/>
 <br/>
 
 # Thanks
@@ -154,6 +160,7 @@ A team of software development
 My friend who taught a lot
 ```
 
+<br/>
 <br/>
 
 # Finally

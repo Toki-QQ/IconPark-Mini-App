@@ -7,6 +7,7 @@
 <p>
 
 <br/>
+<br/>
 
 #### <a href="./README_zh-CN.md">English<a> &nbsp; | &nbsp; 简体中文
 
@@ -14,6 +15,7 @@
 
 #### 提问或反馈: https://github.com/Toki-QQ/IconPark-Mini-App/issues
 
+<br/>
 <br/>
 
 # 本项目基于
@@ -36,6 +38,7 @@ npm: https://www.npmjs.com/package/svg64
 
 ---
 
+<br/>
 <br/>
 
 # 使用方法
@@ -76,6 +79,7 @@ pnpm add @iconpark-mini-app/taro-vue
 </template>
 ```
 
+<br/>
 <br/>
 
 # 感谢
@@ -134,6 +138,7 @@ svg64 的开发者
 一个教会了我很多的朋友
 ```
 
+<br/>
 <br/>
 
 # 最后

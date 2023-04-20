@@ -9,7 +9,8 @@
     "build:cleanWeapp": "rimraf ./packages/weapp/lib",
     "build:clean": "pnpm build:cleanTaro && pnpm build:cleanWeapp",
     "build:projects": "gulp",
-    "build": "pnpm run build:clean && pnpm build:projects"
+    "build": "pnpm run build:clean && pnpm build:projects",
+    "commit": "git add . && git cz"
   },
   "keywords": [
     "iconpark",
@@ -20,7 +21,7 @@
     "miniprogram"
   ],
   "author": "Toki",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
@@ -61,5 +62,13 @@
   "dependencies": {
     "@icon-park/svg": "1.4.2",
     "svg64": "^2.0.0"
+  },
+  "lint-staged": {
+    "*.{js,ts,jsx,tsx}": "eslint --fix"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog-zh"
+    }
   }
 }

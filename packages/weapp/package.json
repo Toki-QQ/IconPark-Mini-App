@@ -4,7 +4,7 @@
   "description": "An iconpark plugin for wechat miniprogram.",
   "author": "Toki <1271297639@qq.com>",
   "homepage": "https://github.com/Toki-QQ/IconPark-Mini-App",
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "directories": {
     "lib": "lib",

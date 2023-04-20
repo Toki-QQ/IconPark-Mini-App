@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "@iconpark-mini-app/taro-vue",
   "version": "1.0.0",
   "description": "An iconpark provider for taro.js with vue.js .",

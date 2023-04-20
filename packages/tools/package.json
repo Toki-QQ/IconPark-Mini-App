@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "@iconpark-mini-app/tools",
   "version": "1.0.0",
   "description": "Some tools for other packages.",

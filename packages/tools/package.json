@@ -1,5 +1,5 @@
 {
-  "name": "@iconpark-mini-app/tools",
+  "name": "iconpark-mini-app/tools",
   "version": "1.0.0",
   "description": "Some tools for other packages.",
   "main": "./lib",

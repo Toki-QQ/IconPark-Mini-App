@@ -1,5 +1,5 @@
 {
-  "name": "@iconpark-mini-app/taro-vue",
+  "name": "iconpark-mini-app/taro-vue",
   "version": "1.0.0",
   "description": "An iconpark provider for taro.js with vue.js .",
   "files": [
@@ -53,18 +53,6 @@
   "homepage": "https://github.com/Toki-QQ/IconPark-Mini-App#readme",
   "dependencies": {
     "vue": "3.2.45"
-  },
-  "peerDependencies": {
-    "svg64": "^2.0.0",
-    "vue": "^3.2.45"
-  },
-  "peerDependenciesMeta": {
-    "svg64": {
-      "optional": true
-    },
-    "@icon-park/svg": {
-      "optional": true
-    }
   },
   "directories": {
     "lib": "lib"

@@ -122,6 +122,9 @@ importers:
       '@babel/runtime':
         specifier: ^7.7.7
         version: registry.npmmirror.com/@babel/runtime@7.21.0
+      '@iconpark-mini-app/taro-vue':
+        specifier: workspace:^
+        version: link:../../packages/taro_vue
       '@tarojs/components':
         specifier: 3.6.4
         version: registry.npmmirror.com/@tarojs/components@3.6.4(vue@3.2.45)

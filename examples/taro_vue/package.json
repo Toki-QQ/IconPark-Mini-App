@@ -36,6 +36,7 @@
   "author": "",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
+    "@iconpark-mini-app/taro-vue": "workspace:^",
     "@tarojs/components": "3.6.4",
     "@tarojs/helper": "3.6.4",
     "@tarojs/plugin-framework-vue3": "3.6.4",

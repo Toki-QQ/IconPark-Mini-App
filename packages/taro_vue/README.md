@@ -1,7 +1,7 @@
 # IconPark-Mini-App-Taro-Vue
 
 <p align="center">
-<img src="./iconpark-mini-app-taro-vue.png" >
+<img src="https://raw.github.com/Toki-QQ/IconPark-Mini-App/master/packages/taro_vue/iconpark-mini-app-taro-vue.png" >
 <p></p>
 <b>An iconpark provider for taro.js with vue.js. When you are developing cross-platform mini programs based on Taro using Vue 3 and want to use the IconPark library, this project may be helpful. It allows you to use just like the official IconPark library when developing mini programs.</b>
 <p>

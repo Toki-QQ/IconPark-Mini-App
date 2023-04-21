@@ -1,7 +1,7 @@
 # IconPark-Mini-App-Taro-Vue
 
 <p align="center">
-<img src="./iconpark-mini-app-taro-vue.png" >
+<img src="https://raw.github.com/Toki-QQ/IconPark-Mini-App/master/packages/taro_vue/iconpark-mini-app-taro-vue.png" >
 <p></p>
 <b>一个基于 IconPark 的 Taro.js 图标支持库。当您在使用 Vue 3 去开发基于 Taro 的跨平台小程序，同时您还想使用 IconPark 图标库的时候，本项目或许能给你提供帮助。它可以让你在开发小程序的时候，像在使用官方的 IconPark 图标库一样。</b>
 <p>

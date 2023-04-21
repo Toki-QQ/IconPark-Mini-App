@@ -1,5 +1,5 @@
 {
-  "name": "iconpark-mini-app-weapp",
+  "name": "@iconpark-mini-app/weapp",
   "version": "1.0.0",
   "description": "An iconpark plugin for wechat miniprogram.",
   "author": "Toki <1271297639@qq.com>",

@@ -1,8 +1,8 @@
 {
-  "name": "iconpark-mini-app",
+  "name": "@iconpark-mini-app",
   "version": "1.0.0",
   "description": "An iconpark provider for taro.js and wechat miniprogram.",
-  "main": "packages",
+  "main": "./",
   "scripts": {
     "preinstall": "npx -y only-allow pnpm",
     "build:cleanTaro": "rimraf ./packages/taro_vue/lib",
